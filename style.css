@@ -48,6 +48,7 @@ body {
 .altezza {
   font-size: 25px;
   font-style: italic;
+  /* qua volevo mettere bold ma non riuscivo */
 }
 
 .carica {
