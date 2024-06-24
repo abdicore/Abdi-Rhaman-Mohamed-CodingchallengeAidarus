@@ -1,0 +1,85 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+
+.conteiner {
+  display: block;
+  width: 1000px;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: auto;
+  border-radius: 20px;
+  background-color:rgba(0, 0, 0, 0.5);
+
+}
+
+.logo {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.verde {
+  color: rgba(0,221,0,255);
+  font-size: 30px;
+  margin: auto;
+  text-align: center;
+}
+
+
+.bordo {
+  width: 1000px;
+  background-color: rgba(0,221,0,255);
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.bianco {
+  font-size: 20px;
+  color: white
+}
+
+.altezza {
+  font-size: 25px;
+  font-style: italic;
+}
+
+.carica {
+  height: 25px;
+  width: 200px;
+  background-color: orange;
+  border-radius: 4px;
+  padding: 4px;
+
+}
+
+.carica2 {
+  height: 25px;
+  width: 400px;
+  background-color: green;
+  border-radius: 4px;
+  padding: 4px;
+
+}
+
+.carica3 {
+  height: 25px;
+  width: 100px;
+  background-color: red;
+  border-radius: 4px;
+  padding: 4px;
+
+}
+
+.orange {
+  height: 25px;
+  width: 50px;
+  background-color: red;
+  border-radius: 4px;
+}
